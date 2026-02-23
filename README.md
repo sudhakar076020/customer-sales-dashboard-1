@@ -13,7 +13,7 @@ The goal is to analyze customer sales data and present key business insights in 
 - Pandas
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ---
 
